@@ -1,0 +1,19 @@
+{
+  "name": "mocha-test",
+  "scripts": {
+    "pretest": "tsc",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "@types/chai": "*",
+    "@types/mocha": "*",
+    "@types/node-fetch": "*",
+    "chai": "*",
+    "chai-deep-match": "^1.2.1",
+    "mocha": "*",
+    "mocha-typescript": "*",
+    "node-fetch": "*",
+    "source-map-support": "*",
+    "typescript": "*"
+  }
+}
